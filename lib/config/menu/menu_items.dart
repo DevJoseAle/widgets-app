@@ -29,5 +29,40 @@ const appMenuItems = <MenuItem>[
     subtitle: 'Contenedor Estilizado', 
     link: '/cards', 
     icon: Icons.smart_button_outlined),
+  MenuItem(
+    title: 'Progress Indicator', 
+    subtitle: 'Generales y Controlados', 
+    link: '/progress', 
+    icon: Icons.refresh_rounded),
+  MenuItem(
+    title: 'SnackBars y Dialogos', 
+    subtitle: 'SnackBars y Dialogos', 
+    link: '/snackbar', 
+    icon: Icons.info_outline),
+  // MenuItem(
+  //   title: 'Tarjetas', 
+  //   subtitle: 'Contenedor Estilizado', 
+  //   link: '/cards', 
+  //   icon: Icons.smart_button_outlined),
+  // MenuItem(
+  //   title: 'Tarjetas', 
+  //   subtitle: 'Contenedor Estilizado', 
+  //   link: '/cards', 
+  //   icon: Icons.smart_button_outlined),
+  // MenuItem(
+  //   title: 'Tarjetas', 
+  //   subtitle: 'Contenedor Estilizado', 
+  //   link: '/cards', 
+  //   icon: Icons.smart_button_outlined),
+  // MenuItem(
+  //   title: 'Tarjetas', 
+  //   subtitle: 'Contenedor Estilizado', 
+  //   link: '/cards', 
+  //   icon: Icons.smart_button_outlined),
+  // MenuItem(
+  //   title: 'Tarjetas', 
+  //   subtitle: 'Contenedor Estilizado', 
+  //   link: '/cards', 
+  //   icon: Icons.smart_button_outlined),
 
 ];
