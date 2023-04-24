@@ -49,11 +49,11 @@ const appMenuItems = <MenuItem>[
     subtitle: 'UI Controls + Tiles', 
     link: '/uicontrols', 
     icon: Icons.card_giftcard_sharp),
-  // MenuItem(
-  //   title: 'Tarjetas', 
-  //   subtitle: 'Contenedor Estilizado', 
-  //   link: '/cards', 
-  //   icon: Icons.smart_button_outlined),
+  MenuItem(
+    title: 'Tutorial', 
+    subtitle: 'OnBoarding Screen', 
+    link: '/tutorial', 
+    icon: Icons.assignment_ind_sharp),
   // MenuItem(
   //   title: 'Tarjetas', 
   //   subtitle: 'Contenedor Estilizado', 
