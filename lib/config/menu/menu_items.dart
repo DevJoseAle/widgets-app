@@ -39,16 +39,16 @@ const appMenuItems = <MenuItem>[
     subtitle: 'SnackBars y Dialogos', 
     link: '/snackbar', 
     icon: Icons.info_outline),
-  // MenuItem(
-  //   title: 'Tarjetas', 
-  //   subtitle: 'Contenedor Estilizado', 
-  //   link: '/cards', 
-  //   icon: Icons.smart_button_outlined),
-  // MenuItem(
-  //   title: 'Tarjetas', 
-  //   subtitle: 'Contenedor Estilizado', 
-  //   link: '/cards', 
-  //   icon: Icons.smart_button_outlined),
+  MenuItem(
+    title: 'AnimatedContainer', 
+    subtitle: 'Contenedor Animated', 
+    link: '/animated', 
+    icon: Icons.check_box_outline_blank),
+  MenuItem(
+    title: 'UI Controls', 
+    subtitle: 'UI Controls + Tiles', 
+    link: '/uicontrols', 
+    icon: Icons.card_giftcard_sharp),
   // MenuItem(
   //   title: 'Tarjetas', 
   //   subtitle: 'Contenedor Estilizado', 
