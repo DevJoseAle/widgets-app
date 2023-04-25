@@ -54,11 +54,11 @@ const appMenuItems = <MenuItem>[
     subtitle: 'OnBoarding Screen', 
     link: '/tutorial', 
     icon: Icons.assignment_ind_sharp),
-  // MenuItem(
-  //   title: 'Tarjetas', 
-  //   subtitle: 'Contenedor Estilizado', 
-  //   link: '/cards', 
-  //   icon: Icons.smart_button_outlined),
+  MenuItem(
+    title: 'Infinite Scroll', 
+    subtitle: 'Scroll Infinito + pull to refresh', 
+    link: '/infiniteScroll', 
+    icon: Icons.app_registration_outlined),
   // MenuItem(
   //   title: 'Tarjetas', 
   //   subtitle: 'Contenedor Estilizado', 
